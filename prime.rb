@@ -3,4 +3,7 @@ def prime?(int)
     return false
   end
   
+  (2..int).to_a.each do 
+    
+  end
 end
